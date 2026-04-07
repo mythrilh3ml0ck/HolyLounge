@@ -1,0 +1,4003 @@
+{
+  "version": "1.0",
+  "dataset": "Catholic Saints Spiritual Quotes",
+  "total_quotes": 666,
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 2,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 3,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 4,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 5,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 6,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 7,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 8,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 9,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 10,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 11,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 12,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 13,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 14,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 15,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 16,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 17,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 18,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 19,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 20,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 21,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 22,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 23,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 24,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 25,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 26,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 27,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 28,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 29,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Teresa of Calcutta",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 30,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 31,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 32,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 33,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 34,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 35,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 36,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 37,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 38,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 39,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 40,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 41,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 42,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 43,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 44,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 45,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 46,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 47,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 48,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 49,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 50,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 51,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 52,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 53,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 54,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 55,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 56,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 57,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 58,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 59,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 60,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 61,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 62,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 63,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 64,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 65,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 66,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 67,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 68,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 69,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 70,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 71,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 72,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 73,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 74,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 75,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 76,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 77,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 78,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 79,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 80,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 81,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 82,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 83,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 84,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 85,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 86,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 87,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 88,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 89,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 90,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 91,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 92,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 93,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 94,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 95,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 96,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 97,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 98,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 99,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 100,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 101,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 102,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 103,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 104,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 105,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 106,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 107,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 108,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 109,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 110,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 111,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 112,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 113,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 114,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 115,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 116,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 117,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 118,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 119,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 120,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 121,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 122,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 123,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 124,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 125,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 126,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 127,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Teresa of Calcutta",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 128,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 129,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 130,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 131,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 132,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 133,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 134,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 135,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 136,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 137,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 138,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 139,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 140,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 141,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Teresa of Calcutta",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 142,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 143,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 144,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 145,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 146,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 147,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 148,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 149,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 150,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 151,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 152,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 153,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 154,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 155,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 156,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 157,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 158,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 159,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 160,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 161,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 162,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 163,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 164,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 165,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 166,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 167,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 168,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 169,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 170,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 171,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 172,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 173,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 174,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 175,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 176,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 177,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 178,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 179,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 180,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 181,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 182,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 183,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 184,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 185,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 186,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 187,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 188,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 189,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 190,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 191,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 192,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 193,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 194,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 195,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 196,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 197,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 198,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 199,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 200,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 201,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 202,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 203,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 204,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 205,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 206,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 207,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 208,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 209,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 210,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 211,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 212,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 213,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 214,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 215,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 216,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 217,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 218,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 219,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 220,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 221,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 222,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 223,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 224,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 225,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 226,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 227,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 228,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 229,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 230,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 231,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 232,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 233,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 234,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 235,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 236,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 237,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 238,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 239,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 240,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 241,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 242,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 243,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 244,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Teresa of Calcutta",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 245,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 246,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 247,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 248,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 249,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 250,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 251,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 252,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 253,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 254,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 255,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 256,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 257,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 258,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 259,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 260,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Teresa of Calcutta",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 261,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 262,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 263,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 264,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 265,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 266,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 267,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 268,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 269,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 270,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 271,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 272,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 273,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 274,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 275,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 276,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 277,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 278,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 279,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 280,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 281,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 282,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 283,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 284,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 285,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 286,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 287,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 288,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 289,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 290,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 291,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 292,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 293,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 294,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 295,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 296,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 297,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 298,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 299,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 300,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 301,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 302,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 303,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 304,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 305,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 306,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 307,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 308,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 309,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 310,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 311,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 312,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 313,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 314,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 315,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 316,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Teresa of Calcutta",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 317,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 318,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 319,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 320,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 321,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 322,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 323,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 324,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 325,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 326,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 327,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 328,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 329,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 330,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 331,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 332,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 333,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 334,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 335,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 336,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 337,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 338,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 339,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 340,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 341,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 342,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 343,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 344,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 345,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 346,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 347,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Teresa of Calcutta",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 348,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 349,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 350,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 351,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 352,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 353,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 354,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 355,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 356,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 357,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 358,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 359,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 360,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 361,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 362,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 363,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 364,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 365,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 366,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 367,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 368,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 369,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 370,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 371,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 372,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 373,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 374,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 375,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 376,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 377,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 378,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 379,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 380,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 381,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 382,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 383,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 384,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 385,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 386,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 387,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 388,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 389,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 390,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 391,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 392,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 393,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 394,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 395,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 396,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 397,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 398,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 399,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 400,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 401,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 402,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 403,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 404,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 405,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 406,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 407,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 408,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 409,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 410,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 411,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 412,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 413,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 414,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 415,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 416,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 417,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 418,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 419,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 420,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 421,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 422,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 423,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 424,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 425,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 426,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 427,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 428,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 429,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 430,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 431,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 432,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 433,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 434,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 435,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 436,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 437,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 438,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 439,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 440,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Teresa of Calcutta",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 441,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 442,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 443,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 444,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 445,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 446,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 447,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 448,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 449,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 450,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 451,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 452,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 453,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 454,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Francis of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 455,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 456,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 457,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 458,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 459,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 460,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 461,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 462,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 463,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 464,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 465,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 466,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 467,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 468,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 469,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 470,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 471,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 472,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 473,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 474,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 475,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 476,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 477,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 478,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 479,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 480,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 481,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 482,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 483,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 484,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 485,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 486,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 487,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 488,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 489,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 490,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 491,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 492,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 493,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 494,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 495,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 496,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 497,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 498,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 499,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 500,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 501,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 502,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 503,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 504,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 505,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 506,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 507,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 508,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 509,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Philip Neri",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 510,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 511,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 512,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 513,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 514,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 515,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 516,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 517,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 518,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 519,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 520,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 521,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 522,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 523,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 524,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 525,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 526,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 527,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 528,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 529,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 530,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 531,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 532,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 533,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 534,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 535,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 536,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 537,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 538,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 539,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 540,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 541,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 542,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 543,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 544,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Robert Bellarmine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 545,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 546,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 547,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 548,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 549,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 550,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 551,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 552,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 553,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 554,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 555,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 556,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 557,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 558,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 559,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 560,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 561,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 562,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 563,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 564,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 565,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 566,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 567,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 568,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 569,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 570,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 571,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 572,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 573,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 574,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 575,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 576,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 577,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 578,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Teresa of Calcutta",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 579,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 580,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 581,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 582,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Catherine Labouré",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 583,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 584,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 585,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 586,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 587,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 588,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 589,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 590,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 591,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 592,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 593,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 594,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 595,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 596,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. John Bosco",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 597,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 598,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 599,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 600,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 601,
+      "quote": "Faith strengthens the soul in times of trial.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 602,
+      "quote": "A humble heart welcomes divine grace.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 603,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Dominic",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 604,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 605,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 606,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Ignatius of Loyola",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 607,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 608,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 609,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. John Damascene",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 610,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 611,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Teresa of Avila",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 612,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Thomas Aquinas",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 613,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 614,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Maximilian Kolbe",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 615,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 616,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Gregory the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 617,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 618,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 619,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 620,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 621,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 622,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 623,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 624,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 625,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Bonaventure",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 626,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Scholastica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 627,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 628,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 629,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. John of the Cross",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 630,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 631,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Clare of Assisi",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 632,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 633,
+      "quote": "God's grace renews the faithful spirit.",
+      "saint": "St. Alphonsus Liguori",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 634,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 635,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 636,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 637,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Rose of Lima",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 638,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 639,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 640,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Cyprian",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 641,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Edith Stein",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 642,
+      "quote": "Serve others with compassion and sincerity.",
+      "saint": "St. Monica",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 643,
+      "quote": "Holiness grows in simple acts of love.",
+      "saint": "St. Anthony of Padua",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 644,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 645,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 646,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 647,
+      "quote": "The light of faith guides the faithful soul.",
+      "saint": "St. Catherine of Siena",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 648,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Leo the Great",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 649,
+      "quote": "In silence the heart learns to listen to God.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 650,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Francis de Sales",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 651,
+      "quote": "True joy is found in loving God and neighbor.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 652,
+      "quote": "The path to holiness is found in love and sacrifice.",
+      "saint": "St. Bernard of Clairvaux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 653,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Louis de Montfort",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 654,
+      "quote": "Patience and charity lead the soul closer to heaven.",
+      "saint": "St. Padre Pio",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 655,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 656,
+      "quote": "In prayer the soul discovers the light of God.",
+      "saint": "St. Benedict",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 657,
+      "quote": "Where there is humility, grace freely enters.",
+      "saint": "St. Peter Canisius",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 658,
+      "quote": "Let your actions reflect the charity of Christ.",
+      "saint": "St. Kateri Tekakwitha",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 659,
+      "quote": "Offer every struggle to God with trust.",
+      "saint": "St. Irenaeus",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 660,
+      "quote": "Trust in God's mercy and walk in faith.",
+      "saint": "St. Elizabeth of Hungary",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 661,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. John Vianney",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 662,
+      "quote": "The love of God transforms every heart.",
+      "saint": "St. Augustine",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 663,
+      "quote": "The soul grows when it gives itself in service.",
+      "saint": "St. Ambrose",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 664,
+      "quote": "Let your heart rest in God and you will find peace.",
+      "saint": "St. Jerome",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 665,
+      "quote": "Love God above all things and serve others with humility.",
+      "saint": "St. Thérèse of Lisieux",
+      "religion": "Catholic Christianity"
+    },
+    {
+      "id": 666,
+      "quote": "Seek God daily and peace will follow.",
+      "saint": "St. Hildegard of Bingen",
+      "religion": "Catholic Christianity"
+    }
+  ]
+}

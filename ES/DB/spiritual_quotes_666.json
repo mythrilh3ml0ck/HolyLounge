@@ -1,0 +1,4002 @@
+{
+  "version": "1.0",
+  "total_quotes": 666,
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 2,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 3,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 4,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 5,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 6,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 7,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 8,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 9,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 10,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 11,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 12,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 13,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 14,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 15,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 16,
+      "quote": "Where there is compassion, there is God.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 17,
+      "quote": "The soul becomes what it loves.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 18,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 19,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 20,
+      "quote": "Seek within and you will find the way.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 21,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 22,
+      "quote": "The divine is closer than your breath.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 23,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 24,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 25,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 26,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 27,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 28,
+      "quote": "Light enters where the heart is open.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 29,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 30,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 31,
+      "quote": "The divine is closer than your breath.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 32,
+      "quote": "The soul becomes what it loves.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 33,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 34,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 35,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 36,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 37,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 38,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 39,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 40,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 41,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 42,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 43,
+      "quote": "The soul becomes what it loves.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 44,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 45,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 46,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 47,
+      "quote": "The soul becomes what it loves.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 48,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 49,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 50,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 51,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 52,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 53,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 54,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 55,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 56,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 57,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 58,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 59,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 60,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 61,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 62,
+      "quote": "The divine is closer than your breath.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 63,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 64,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 65,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 66,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 67,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 68,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 69,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 70,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 71,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 72,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 73,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 74,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 75,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 76,
+      "quote": "The divine is closer than your breath.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 77,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 78,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 79,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 80,
+      "quote": "Seek within and you will find the way.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 81,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 82,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 83,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 84,
+      "quote": "The soul becomes what it loves.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 85,
+      "quote": "The divine is closer than your breath.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 86,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 87,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 88,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 89,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 90,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 91,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 92,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 93,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 94,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 95,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 96,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 97,
+      "quote": "Seek within and you will find the way.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 98,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 99,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 100,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 101,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 102,
+      "quote": "Let humility open the door to understanding.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 103,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 104,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 105,
+      "quote": "The divine is closer than your breath.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 106,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 107,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 108,
+      "quote": "The soul becomes what it loves.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 109,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 110,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 111,
+      "quote": "The divine is closer than your breath.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 112,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 113,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 114,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 115,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 116,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 117,
+      "quote": "The soul becomes what it loves.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 118,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 119,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 120,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 121,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 122,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 123,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 124,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 125,
+      "quote": "The soul becomes what it loves.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 126,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 127,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 128,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 129,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 130,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 131,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 132,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 133,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 134,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 135,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 136,
+      "quote": "Silence teaches what words cannot.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 137,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 138,
+      "quote": "Light enters where the heart is open.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 139,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 140,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 141,
+      "quote": "Seek within and you will find the way.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 142,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 143,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 144,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 145,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 146,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 147,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 148,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 149,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 150,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 151,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 152,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 153,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 154,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 155,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 156,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 157,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 158,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 159,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 160,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 161,
+      "quote": "Seek within and you will find the way.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 162,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 163,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 164,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 165,
+      "quote": "Light enters where the heart is open.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 166,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 167,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 168,
+      "quote": "The divine is closer than your breath.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 169,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 170,
+      "quote": "The soul becomes what it loves.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 171,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 172,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 173,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 174,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 175,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 176,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 177,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 178,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 179,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 180,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 181,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 182,
+      "quote": "The soul becomes what it loves.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 183,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 184,
+      "quote": "Light enters where the heart is open.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 185,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 186,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 187,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 188,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 189,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 190,
+      "quote": "The divine is closer than your breath.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 191,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 192,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 193,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 194,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 195,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 196,
+      "quote": "Seek within and you will find the way.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 197,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 198,
+      "quote": "Faith grows where love is practiced.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 199,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 200,
+      "quote": "Light enters where the heart is open.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 201,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 202,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 203,
+      "quote": "Seek within and you will find the way.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 204,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 205,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 206,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 207,
+      "quote": "Light enters where the heart is open.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 208,
+      "quote": "Compassion is the language of the soul.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 209,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 210,
+      "quote": "The soul becomes what it loves.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 211,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 212,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 213,
+      "quote": "The divine is closer than your breath.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 214,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 215,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 216,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 217,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 218,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 219,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 220,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 221,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 222,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 223,
+      "quote": "Seek within and you will find the way.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 224,
+      "quote": "The divine is closer than your breath.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 225,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 226,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 227,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 228,
+      "quote": "Where there is compassion, there is God.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 229,
+      "quote": "Light enters where the heart is open.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 230,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 231,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 232,
+      "quote": "Faith grows where love is practiced.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 233,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 234,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 235,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 236,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 237,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 238,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 239,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 240,
+      "quote": "Compassion is the language of the soul.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 241,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 242,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 243,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 244,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 245,
+      "quote": "The soul becomes what it loves.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 246,
+      "quote": "The divine is closer than your breath.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 247,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 248,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 249,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 250,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 251,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 252,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 253,
+      "quote": "The soul becomes what it loves.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 254,
+      "quote": "The divine is closer than your breath.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 255,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 256,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 257,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 258,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 259,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 260,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 261,
+      "quote": "Compassion is the language of the soul.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 262,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 263,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 264,
+      "quote": "The divine is closer than your breath.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 265,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 266,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 267,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 268,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 269,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 270,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 271,
+      "quote": "The divine is closer than your breath.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 272,
+      "quote": "Light enters where the heart is open.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 273,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 274,
+      "quote": "The divine is closer than your breath.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 275,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 276,
+      "quote": "The soul becomes what it loves.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 277,
+      "quote": "The divine is closer than your breath.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 278,
+      "quote": "Light enters where the heart is open.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 279,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 280,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 281,
+      "quote": "Seek within and you will find the way.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 282,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 283,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 284,
+      "quote": "The divine is closer than your breath.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 285,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 286,
+      "quote": "The divine is closer than your breath.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 287,
+      "quote": "Silence teaches what words cannot.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 288,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 289,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 290,
+      "quote": "The divine is closer than your breath.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 291,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 292,
+      "quote": "The soul becomes what it loves.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 293,
+      "quote": "Seek within and you will find the way.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 294,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 295,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 296,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 297,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 298,
+      "quote": "Let humility open the door to understanding.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 299,
+      "quote": "The soul becomes what it loves.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 300,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 301,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 302,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 303,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 304,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 305,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 306,
+      "quote": "The divine is closer than your breath.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 307,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 308,
+      "quote": "Where there is compassion, there is God.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 309,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 310,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 311,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 312,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 313,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 314,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 315,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 316,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 317,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 318,
+      "quote": "Silence teaches what words cannot.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 319,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 320,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 321,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 322,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 323,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 324,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 325,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 326,
+      "quote": "The divine is closer than your breath.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 327,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 328,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 329,
+      "quote": "The divine is closer than your breath.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 330,
+      "quote": "The divine is closer than your breath.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 331,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 332,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 333,
+      "quote": "The divine is closer than your breath.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 334,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 335,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 336,
+      "quote": "Silence teaches what words cannot.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 337,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 338,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 339,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 340,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 341,
+      "quote": "Light enters where the heart is open.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 342,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 343,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 344,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 345,
+      "quote": "Light enters where the heart is open.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 346,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 347,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 348,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 349,
+      "quote": "Light enters where the heart is open.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 350,
+      "quote": "Where there is compassion, there is God.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 351,
+      "quote": "The divine is closer than your breath.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 352,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 353,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 354,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 355,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 356,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 357,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 358,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 359,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 360,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 361,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 362,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 363,
+      "quote": "The soul becomes what it loves.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 364,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 365,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 366,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 367,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 368,
+      "quote": "The soul becomes what it loves.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 369,
+      "quote": "The soul becomes what it loves.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 370,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 371,
+      "quote": "Seek within and you will find the way.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 372,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 373,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 374,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 375,
+      "quote": "Light enters where the heart is open.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 376,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 377,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 378,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 379,
+      "quote": "Seek within and you will find the way.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 380,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 381,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 382,
+      "quote": "Let humility open the door to understanding.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 383,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 384,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 385,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 386,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 387,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 388,
+      "quote": "Light enters where the heart is open.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 389,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 390,
+      "quote": "The divine is closer than your breath.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 391,
+      "quote": "Seek within and you will find the way.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 392,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 393,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 394,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 395,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 396,
+      "quote": "The soul becomes what it loves.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 397,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 398,
+      "quote": "Light enters where the heart is open.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 399,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 400,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 401,
+      "quote": "Compassion is the language of the soul.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 402,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 403,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 404,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 405,
+      "quote": "Seek within and you will find the way.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 406,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 407,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 408,
+      "quote": "Silence teaches what words cannot.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 409,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 410,
+      "quote": "Seek within and you will find the way.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 411,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 412,
+      "quote": "Seek within and you will find the way.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 413,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 414,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 415,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 416,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 417,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 418,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 419,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 420,
+      "quote": "Seek within and you will find the way.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 421,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 422,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 423,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 424,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 425,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 426,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 427,
+      "quote": "Light enters where the heart is open.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 428,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 429,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 430,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 431,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 432,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 433,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 434,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 435,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 436,
+      "quote": "Let humility open the door to understanding.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 437,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 438,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 439,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 440,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 441,
+      "quote": "The soul becomes what it loves.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 442,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 443,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 444,
+      "quote": "The soul becomes what it loves.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 445,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 446,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 447,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 448,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 449,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 450,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 451,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 452,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 453,
+      "quote": "Light enters where the heart is open.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 454,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 455,
+      "quote": "Seek within and you will find the way.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 456,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 457,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 458,
+      "quote": "The divine is closer than your breath.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 459,
+      "quote": "The divine is closer than your breath.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 460,
+      "quote": "Light enters where the heart is open.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 461,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 462,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 463,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 464,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 465,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 466,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 467,
+      "quote": "The soul becomes what it loves.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 468,
+      "quote": "Seek within and you will find the way.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 469,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 470,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 471,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 472,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 473,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 474,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 475,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 476,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 477,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 478,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 479,
+      "quote": "The soul becomes what it loves.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 480,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 481,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 482,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 483,
+      "quote": "Light enters where the heart is open.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 484,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 485,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 486,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 487,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 488,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 489,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 490,
+      "quote": "Compassion is the language of the soul.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 491,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 492,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 493,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 494,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 495,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 496,
+      "quote": "Silence teaches what words cannot.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 497,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 498,
+      "quote": "Light enters where the heart is open.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 499,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 500,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 501,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 502,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 503,
+      "quote": "Let humility open the door to understanding.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 504,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 505,
+      "quote": "The divine is closer than your breath.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 506,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 507,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 508,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 509,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 510,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 511,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 512,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 513,
+      "quote": "Where there is compassion, there is God.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 514,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 515,
+      "quote": "Seek within and you will find the way.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 516,
+      "quote": "Faith grows where love is practiced.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 517,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 518,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 519,
+      "quote": "The divine is closer than your breath.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 520,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 521,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 522,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 523,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 524,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 525,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 526,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 527,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 528,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 529,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 530,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 531,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 532,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 533,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 534,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 535,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 536,
+      "quote": "Seek within and you will find the way.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 537,
+      "quote": "Seek within and you will find the way.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 538,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 539,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 540,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 541,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 542,
+      "quote": "The divine is closer than your breath.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 543,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 544,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 545,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 546,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 547,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 548,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 549,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 550,
+      "quote": "Faith grows where love is practiced.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 551,
+      "quote": "The divine is closer than your breath.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 552,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 553,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 554,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 555,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 556,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 557,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 558,
+      "quote": "Light enters where the heart is open.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 559,
+      "quote": "The divine is closer than your breath.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 560,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 561,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 562,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 563,
+      "quote": "Where there is compassion, there is God.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 564,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 565,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 566,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 567,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 568,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 569,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 570,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 571,
+      "quote": "Light enters where the heart is open.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 572,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 573,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 574,
+      "quote": "The divine is closer than your breath.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 575,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 576,
+      "quote": "The divine is closer than your breath.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 577,
+      "quote": "Seek within and you will find the way.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 578,
+      "quote": "Seek within and you will find the way.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 579,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 580,
+      "quote": "The soul becomes what it loves.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 581,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 582,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 583,
+      "quote": "Light enters where the heart is open.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 584,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 585,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 586,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 587,
+      "quote": "The divine is closer than your breath.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 588,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 589,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 590,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 591,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 592,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 593,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 594,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 595,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Sufi Saying",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 596,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 597,
+      "quote": "Seek within and you will find the way.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 598,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    },
+    {
+      "id": 599,
+      "quote": "Seek within and you will find the way.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 600,
+      "quote": "Light enters where the heart is open.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 601,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 602,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 603,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 604,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 605,
+      "quote": "Light enters where the heart is open.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 606,
+      "quote": "Light enters where the heart is open.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 607,
+      "quote": "The soul becomes what it loves.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 608,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 609,
+      "quote": "Let humility open the door to understanding.",
+      "author": "Jewish Proverb",
+      "religion": "Judaism"
+    },
+    {
+      "id": 610,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Thich Nhat Hanh",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 611,
+      "quote": "Silence teaches what words cannot.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 612,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 613,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 614,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 615,
+      "quote": "The path of love leads to the Eternal.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 616,
+      "quote": "The soul becomes what it loves.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 617,
+      "quote": "The divine is closer than your breath.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 618,
+      "quote": "Where there is compassion, there is God.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 619,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 620,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 621,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 622,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 623,
+      "quote": "The soul becomes what it loves.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 624,
+      "quote": "Seek within and you will find the way.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 625,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 626,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 627,
+      "quote": "Compassion is the language of the soul.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 628,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 629,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 630,
+      "quote": "The gentle spirit overcomes anger.",
+      "author": "Tao Te Ching",
+      "religion": "Taoism"
+    },
+    {
+      "id": 631,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 632,
+      "quote": "Serve others and you will find the sacred.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 633,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 634,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 635,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 636,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 637,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 638,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 639,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 640,
+      "quote": "The soul becomes what it loves.",
+      "author": "St. Francis of Assisi",
+      "religion": "Christianity"
+    },
+    {
+      "id": 641,
+      "quote": "Faith grows where love is practiced.",
+      "author": "Zen Proverb",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 642,
+      "quote": "Silence teaches what words cannot.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 643,
+      "quote": "Seek within and you will find the way.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 644,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Bhagavad Gita",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 645,
+      "quote": "Compassion is the language of the soul.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 646,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 647,
+      "quote": "A grateful heart reflects divine grace.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 648,
+      "quote": "In stillness, the spirit hears truth.",
+      "author": "Gautama Buddha",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 649,
+      "quote": "The divine is closer than your breath.",
+      "author": "Dalai Lama",
+      "religion": "Buddhism"
+    },
+    {
+      "id": 650,
+      "quote": "Seek within and you will find the way.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 651,
+      "quote": "Let humility open the door to understanding.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 652,
+      "quote": "Seek within and you will find the way.",
+      "author": "Talmudic Teaching",
+      "religion": "Judaism"
+    },
+    {
+      "id": 653,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Christian Desert Fathers",
+      "religion": "Christianity"
+    },
+    {
+      "id": 654,
+      "quote": "Truth shines through a peaceful mind.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 655,
+      "quote": "Silence teaches what words cannot.",
+      "author": "Ramakrishna",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 656,
+      "quote": "Peace begins in the quiet mind.",
+      "author": "Rumi",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 657,
+      "quote": "Kindness is the simplest path to holiness.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 658,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 659,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Swami Vivekananda",
+      "religion": "Hinduism"
+    },
+    {
+      "id": 660,
+      "quote": "The heart that seeks truth finds light within.",
+      "author": "St. Augustine",
+      "religion": "Christianity"
+    },
+    {
+      "id": 661,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Guru Nanak",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 662,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Sikh Teaching",
+      "religion": "Sikhism"
+    },
+    {
+      "id": 663,
+      "quote": "Wisdom comes to the patient heart.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 664,
+      "quote": "The divine is closer than your breath.",
+      "author": "Lao Tzu",
+      "religion": "Taoism"
+    },
+    {
+      "id": 665,
+      "quote": "Walk gently, for every step shapes the spirit.",
+      "author": "Rabia al-Basri",
+      "religion": "Islam (Sufism)"
+    },
+    {
+      "id": 666,
+      "quote": "The divine is closer than your breath.",
+      "author": "St. Teresa of Avila",
+      "religion": "Christianity"
+    }
+  ]
+}
